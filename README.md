@@ -1,5 +1,7 @@
 # LMArena Table Svelte Demo
 
+![UI Screenshot](assets/image.png)
+
 本项目使用 **Antigravity Gemini3 Flash** 开发， 基于 **Svelte 5** 框架，仿照 [lmarena.ai](https://lmarena.ai/) 表格UI风格。
 
 ## 项目特点
